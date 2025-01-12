@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ra_fa\\Documents\\GitHub\\PlanilhaExcel\\ControlePatrimonio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71BCEDF7-9C33-463F-AAA7-0B39D4561B4E}|ControlePatrimonio\\ControlePatrimonio.vbproj|c:\\users\\ra_fa\\documents\\github\\planilhaexcel\\controlepatrimonio\\controlepatrimonio\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{71BCEDF7-9C33-463F-AAA7-0B39D4561B4E}|ControlePatrimonio\\ControlePatrimonio.vbproj|solutionrelative:controlepatrimonio\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BCEDF7-9C33-463F-AAA7-0B39D4561B4E}|ControlePatrimonio\\ControlePatrimonio.vbproj|c:\\users\\ra_fa\\documents\\github\\planilhaexcel\\controlepatrimonio\\controlepatrimonio\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{71BCEDF7-9C33-463F-AAA7-0B39D4561B4E}|ControlePatrimonio\\ControlePatrimonio.vbproj|solutionrelative:controlepatrimonio\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ra_fa\\Documents\\GitHub\\PlanilhaExcel\\ControlePatrimonio\\ControlePatrimonio\\Form1.vb",
+              "RelativeDocumentMoniker": "ControlePatrimonio\\Form1.vb",
+              "ToolTip": "C:\\Users\\ra_fa\\Documents\\GitHub\\PlanilhaExcel\\ControlePatrimonio\\ControlePatrimonio\\Form1.vb",
+              "RelativeToolTip": "ControlePatrimonio\\Form1.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAzwAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-11T16:08:30.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ra_fa\\Documents\\GitHub\\PlanilhaExcel\\ControlePatrimonio\\ControlePatrimonio\\Form1.vb",
+              "RelativeDocumentMoniker": "ControlePatrimonio\\Form1.vb",
+              "ToolTip": "C:\\Users\\ra_fa\\Documents\\GitHub\\PlanilhaExcel\\ControlePatrimonio\\ControlePatrimonio\\Form1.vb [Design]",
+              "RelativeToolTip": "ControlePatrimonio\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-11T16:08:20.176Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
